@@ -114,13 +114,13 @@ a:hover {
   list-style: none;
 }
 
-.reelCard {
+.reelCard, .projectCard {
   padding: 56.25% 0 0 0;
   height: 100%;
   position: relative;
 }
 
-.reelPlayer {
+.reelPlayer, .projectImage, .projectDetails {
   position: absolute;
   top: 0;
   left: 0;
@@ -194,11 +194,6 @@ a:hover {
     height: auto;
     width: 100%;
     max-width: 500px;
-}
-
-.projectCard {
-  position: relative;
-  display: flex;
 }
 
 .projectImage {

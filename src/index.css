@@ -1,0 +1,391 @@
+.cinzel-decorative-regular {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cinzel-decorative-bold {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cinzel-decorative-black {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.afacad-flux-regular {
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Afacad Flux", serif;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  color: #FFFFFF;
+  background-color: #0F0F12;
+}
+
+nav {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  z-index: 2;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 0px 20px;
+}
+
+a:hover {
+  transition: 0.5s;
+  color: #6495ED;
+}
+
+.nameAndTitle {
+  position: static;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  height: 100%;
+  filter: drop-shadow(0px 0px 10px rgb(255, 0, 251, 0.5));
+}
+
+.nameImage {
+  width: 100%;
+}
+
+.backgroundVideoPortrait {
+  display: block;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  object-position: 50% 15%;
+  z-index: -1;
+}
+
+.backgroundVideoLandscape {
+  display: none;
+  z-index: -1;
+}
+
+.video, .code, .about {
+  margin: auto 20px;
+}
+
+.reelContainerList, .projectsContainerList, .photoContainerList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.reel, .project {
+  flex: 0 0 100%;
+  max-width: 1000px;
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+.reelCard {
+  padding: 56.25% 0 0 0;
+  height: 100%;
+  position: relative;
+}
+
+.reelPlayer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #0F0F12;
+  border-radius: 5px;
+}
+
+.videoSkillsGallery, .codeSkillsGallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.videoSkillsContainerList, .codeSkillsContainerList {
+  max-width: 1500px;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.videoSkill, .codeSkill {
+  margin: 10px 0px;
+}
+
+.skill, .seperator {
+  margin: auto 5px;
+}
+
+.seperator {
+  color: #6495ED;
+}
+
+.analog {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.analogDesc {
+  margin: 20px auto;
+}
+
+.analogDesc {
+  max-width: 500px;
+}
+
+.analogDesc p, .bio p {
+  text-indent: 20px;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+}
+
+.analogDesc p:last-child, .bio p:last-child {
+  margin-bottom: 0px;
+}
+
+.vhsContainer, .crtContainer {
+  display: flex;
+}
+
+.vhsContainer {
+  margin-bottom: 20px;
+}
+
+.vhsTapes, .crt {
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+.projectCard {
+  position: relative;
+  display: flex;
+}
+
+.projectImage {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.projectDetails {
+  opacity: 0;
+  text-align: center;
+  background-color: rgb(0, 0, 0, 0.8);
+  position: absolute;
+  top: 0px;
+  transition: 0.5s;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+}
+
+.projectDetails:hover {
+  opacity: 1;
+}
+
+.projectDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.projectDetails h2 {
+  font-style: italic;
+}
+
+.projectLinks > a {
+  margin: 0px 5px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  max-width: 1000px;
+  margin: auto;
+}
+
+.headShotContainer {
+  margin: 0px 20px 20px 20px;
+}
+
+.circle {
+  width: 250px;
+  height: 250px;
+}
+
+.mainHeadShot {
+  height: 100%;
+}
+
+.socialsContainerList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  max-width: 1000px;
+  margin: 20px auto 10px auto;
+}
+
+.social {
+    width: 100%;
+}
+
+.socialLink {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.faIcon {
+  font-size: 42px;
+  padding-bottom: 5px;
+}
+
+.socialLink p {
+  opacity: 0;
+  margin: auto;
+}
+
+.socialLink:hover p {
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.photoGallery {
+  max-width: 1000px;
+  margin: auto auto 10px auto;
+}
+
+.photo {
+  width: 450px;
+  list-style: none;
+  padding: 10px 20px;
+}
+
+.photoCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 300px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.photoCardPhoto {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 1750px) {
+  .video, .code, .about {
+    margin: auto 10px;
+  }
+
+  .reel, .project {
+    flex: 0 0 33.33%;
+    min-width: 450px;
+    padding: 0px 10px;
+  }
+  
+  .analog {
+    flex-direction: row-reverse;
+    height: 100%;
+    margin-bottom: 20px;
+  }
+
+  .analogDesc {
+    margin: auto 20px;
+  }  
+
+  .hero {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .headShotContainer {
+    float:left;
+    margin-bottom: 0px;
+  }
+
+  .photoGallery {
+    max-width: 100%;
+  }
+
+}
+
+@media  (min-height: 700px) and (min-width: 1750px) {
+  .nameAndTitle {
+    position: fixed;
+    left: 50%;
+  }
+
+  .nameImage {
+    position: relative;
+    right: 110px;
+    margin-top: 430px;
+  }
+
+  .backgroundVideoLandscape {
+    display: block;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 1250px;
+  }
+  
+  .backgroundVideoPortrait {
+    display: none;
+  }
+}

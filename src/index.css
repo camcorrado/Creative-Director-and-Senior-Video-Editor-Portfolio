@@ -1,3 +1,8 @@
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
 .cinzel-decorative-regular {
   font-family: "Cinzel Decorative", serif;
   font-weight: 400;
@@ -128,6 +133,11 @@ a:hover {
   height: 100%;
   background-color: #0F0F12;
   border-radius: 5px;
+}
+
+.reelPlayer, .vhsTapes, .crt, .projectImage, .mainHeadShot, .photoCardPhoto {
+  opacity: 1;
+    animation: fadeIn 0.5s linear;
 }
 
 .videoSkillsGallery, .codeSkillsGallery {

@@ -1,17 +1,17 @@
-import BAND from "./Pics/Band.jpeg"
-import BFFs from "./Pics/BFFs.jpeg"
-import CAMP from "./Pics/Camp.jpeg"
-import CANOE from "./Pics/Canoe.png"
-import CAPRI from "./Pics/Capri.jpeg"
-import CATKEISHA from "./Pics/Catkeisha.png"
-import FAM from "./Pics/Fam.jpeg"
-import LUIGI from "./Pics/Luigi.jpeg"
-import MN1 from "./Pics/MN1.png"
-import MN2 from "./Pics/MN2.png"
-import NICKY from "./Pics/Nicky.png"
-import NINTENDO from "./Pics/Nintendo.jpeg"
-import PUMPKIN from "./Pics/Pumpkin.png"
-import SCREAM from "./Pics/Scream.png"
+import BAND from "./Pics/Band.jpg";
+import BFFs from "./Pics/BFFs.jpg";
+import CAMP from "./Pics/Camp.jpg";
+import CANOE from "./Pics/Canoe.png";
+import CAPRI from "./Pics/Capri.jpg";
+import CATKEISHA from "./Pics/Catkeisha.png";
+import FAM from "./Pics/Fam.jpg";
+import LUIGI from "./Pics/Luigi.jpg";
+import MN1 from "./Pics/MN1.png";
+import MN2 from "./Pics/MN2.png";
+import NICKY from "./Pics/Nicky.png";
+import NINTENDO from "./Pics/Nintendo.jpg";
+import PUMPKIN from "./Pics/Pumpkin.png";
+import SCREAM from "./Pics/Scream.png";
 
 const Photos = [
   {
@@ -69,7 +69,7 @@ const Photos = [
   {
     photo: PUMPKIN,
     alt: "Cam holding a pumpkin",
-  }
+  },
 ];
 
 export default Photos;

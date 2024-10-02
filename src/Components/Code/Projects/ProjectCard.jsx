@@ -6,7 +6,7 @@ export default class ProjectCard extends Component {
       this.props.project;
     return (
       <section className="projectCard">
-        <img src={image} alt={alt} className="projectImage" />
+        <img src={image} alt={alt} className="projectImage" loading="lazy" />
         <div className="projectDetails">
           <h1>{name}</h1>
           <p>{description}</p>

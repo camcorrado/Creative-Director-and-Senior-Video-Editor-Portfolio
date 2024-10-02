@@ -8,9 +8,10 @@ export default class Hero extends Component {
         <section className="headShotContainer">
           <div className="circle">
             <img
-              alt="Cam Corrado Headshot"
-              className="mainHeadShot"
               src={Headshot}
+              className="mainHeadShot"
+              alt="Cam Corrado Headshot"
+              loading="lazy"
             />
           </div>
         </section>

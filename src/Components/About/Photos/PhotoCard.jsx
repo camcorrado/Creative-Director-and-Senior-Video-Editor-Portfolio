@@ -5,7 +5,7 @@ export default class PhotoCard extends Component {
     const { photo, alt } = this.props.photo;
     return (
       <section className="photoCard">
-        <img src={photo} alt={alt} className="photoCardPhoto" />
+        <img src={photo} className="photoCardPhoto" alt={alt} loading="lazy" />
       </section>
     );
   }

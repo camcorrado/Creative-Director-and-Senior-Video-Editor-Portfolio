@@ -7,7 +7,7 @@ export default class Analog extends Component {
     return (
       <section className="analog">
         <section className="crtContainer">
-          <img src={CRT} className="crt" alt="CRT TV" />
+          <img src={CRT} className="crt" alt="CRT TV" loading="lazy" />
         </section>
         <section className="analogDesc">
           <p>
@@ -25,7 +25,7 @@ export default class Analog extends Component {
           </p>
         </section>
         <section className="vhsContainer">
-          <img src={VHS} className="vhsTapes" alt="VHS tapes" />
+          <img src={VHS} className="vhsTapes" alt="VHS tapes" loading="lazy" />
         </section>
       </section>
     );

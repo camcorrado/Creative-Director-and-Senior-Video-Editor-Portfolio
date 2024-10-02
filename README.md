@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Landing Page](https://github.com/camcorrado/Creative-Director-and-Senior-Video-Editor-Portfolio/src/Components/Code/Projects/Pics/PortfolioLanding.jpg?raw=true)
+![Landing Page](https://i.imgur.com/RT7DFtx.jpeg)
 
 ## Built With
 

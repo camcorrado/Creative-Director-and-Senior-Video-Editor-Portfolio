@@ -39,7 +39,7 @@ const Socials = [
     name: "Resume",
     icon: faFileLines,
     link: "https://drive.google.com/file/d/132M7wO9lNZtAZXc3eKpFqkbpVz2J3OtM/view?usp=drive_link",
-    ariaLabel: "Resume",
+    ariaLabel: "View Resume",
   },
 ];
 

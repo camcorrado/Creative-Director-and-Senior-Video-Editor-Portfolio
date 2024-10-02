@@ -10,13 +10,16 @@ export default class Landing extends Component {
     return (
       <section className="landing">
         <section className="nameAndTitle">
-          <img src={nameAndTitle} loading="lazy" className="nameImage" />{" "}
+          <img
+            src={nameAndTitle}
+            className="nameImage"
+            alt="Cameron Corrado - Creative Director & Senior Video Editor"
+          />
         </section>
         <video
           src={backgroundVideoPortrait}
           className="backgroundVideoPortrait"
-          loading="lazy"
-          playsinline
+          playsInline
           autoPlay
           loop
           muted
@@ -26,8 +29,7 @@ export default class Landing extends Component {
         <video
           src={backgroundVideoLandscape}
           className="backgroundVideoLandscape"
-          loading="lazy"
-          playsinline
+          playsInline
           autoPlay
           loop
           muted

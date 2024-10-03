@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Headshot from "./HEADSHOT.png";
+import Headshot from "./Headshot.png";
 
 export default class Hero extends Component {
   render() {

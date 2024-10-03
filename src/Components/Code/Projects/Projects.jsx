@@ -52,7 +52,7 @@ const projects = [
     name: "Suggest",
     image: SUGGEST,
     alt: "Suggest Screenshot",
-    description: `Suggest allows users to submit suggestions to reach a common goal. Users can edit and delete their suggestions while upvoting other users' suggestions they may agree with. Admin users can approve submitted suggestions.`,
+    description: `Suggest allows users to submit and support suggestions to reach a common goal.`,
     mediums: "React, HTML, CSS, JavaScript, Node, Express, PostgreSQL",
     link: null,
     repoClient: "https://github.com/camcorrado/Suggest",
@@ -62,7 +62,7 @@ const projects = [
     name: "Gardener",
     image: GARDENR,
     alt: "Gardener Screenshot",
-    description: `Gather all of your garden's information in one place: watering frequency, fertilizer frequency, mature height, & more! Users can also see how current & prospective plants will fair within their hardiness zone.`,
+    description: `Gather all of your garden's information in one place: watering frequency, fertilizer frequency, mature height, & more!`,
     mediums:
       "React, HTML, CSS, JavaScript, Node, Express, PostgresSQL, Adobe Creative Suite",
     link: null,

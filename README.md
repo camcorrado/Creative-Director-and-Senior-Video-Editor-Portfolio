@@ -6,10 +6,10 @@
 
 ## Built With
 
-- Vite
-- React
-- JavaScript
+- React + Vite
+- HTML
 - CSS
+- JavaScript
 
 ## Live URL
 

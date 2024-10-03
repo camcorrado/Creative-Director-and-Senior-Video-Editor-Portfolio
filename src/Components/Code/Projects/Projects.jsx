@@ -2,6 +2,9 @@ import PORTFOLIO from "./Pics/PortfolioLanding.jpg";
 import MEMORY from "./Pics/MemoryGame.png";
 import UICHALLENGES from "./Pics/UIChallenges.png";
 import DBD from "./Pics/DBDQuiz.png";
+import TOGETHER from "./Pics/Together.jpg";
+import SUGGEST from "./Pics/Suggest.jpg";
+import GARDENR from "./Pics/Gardenr.jpg";
 
 const projects = [
   {
@@ -9,10 +12,11 @@ const projects = [
     image: PORTFOLIO,
     alt: "Portfolio Screenshot",
     description: `Pretty meta, right? I hope you're enjoying your experience here on my responsive portfolio!`,
-    mediums: "Vite, React, JavaScript, CSS",
+    mediums: "React + Vite, HTML, CSS, JavaScript, Adobe Creative Suite",
     link: "https://camcorrado.com/",
     repoClient:
       "https://github.com/camcorrado/Creative-Director-and-Senior-Video-Editor-Portfolio",
+    repoServer: null,
   },
   {
     name: "Memory Game",
@@ -22,15 +26,48 @@ const projects = [
     mediums: "HTML, CSS, JavaScript",
     link: "https://camcorrado.github.io/Memory-Game/",
     repoClient: "https://github.com/camcorrado/Memory-Game",
+    repoServer: null,
   },
   {
     name: "UI Challenges",
     image: UICHALLENGES,
     alt: "UI Challenges Screenshot",
     description: `20 UI challenges to test my skill & creativity.`,
-    mediums: "React, CSS",
+    mediums: "React + Vite, HTML, CSS, JavaScript, Adobe Creative Suite",
     link: "https://camcorrado.github.io/UI-Challenges/",
     repoClient: "https://github.com/camcorrado/UI-Challenges",
+    repoServer: null,
+  },
+  {
+    name: "Together",
+    image: TOGETHER,
+    alt: "Together Screenshot",
+    description: `Together brings LGBTQ+ locals together based on distance and mutual interests! Users can edit their profile, favorite, block, unblock, and message other users, change their password, and much more!`,
+    mediums: "React, CSS, Node, Express, PostgreSQL",
+    link: null,
+    repoClient: "https://github.com/camcorrado/Together",
+    repoServer: "https://github.com/camcorrado/Together-API",
+  },
+  {
+    name: "Suggest",
+    image: SUGGEST,
+    alt: "Suggest Screenshot",
+    description: `Suggest allows users to submit suggestions to reach a common goal. Users can edit and delete their suggestions while upvoting other users' suggestions they may agree with. Admin users can approve submitted suggestions.`,
+    mediums: "React, HTML, CSS, JavaScript, Node, Express, PostgreSQL",
+    link: null,
+    repoClient: "https://github.com/camcorrado/Suggest",
+    repoServer: "https://github.com/camcorrado/Suggest-Server",
+  },
+  {
+    name: "Gardener",
+    image: GARDENR,
+    alt: "Gardener Screenshot",
+    description: `Gather all of your garden's information in one place: watering frequency, fertilizer frequency, mature height, & more! Users can also see how current & prospective plants will fair within their hardiness zone.`,
+    mediums:
+      "React, HTML, CSS, JavaScript, Node, Express, PostgresSQL, Adobe Creative Suite",
+    link: null,
+    repoClient: "https://github.com/camcorrado/Gardener",
+    repoServer: null,
   },
   {
     name: "Dead By Daylight Quiz",
@@ -38,9 +75,10 @@ const projects = [
     alt: "Dead By Daylight Quiz Screenshot",
     description:
       "This quiz based on the hit horror game Dead By Daylight provides the user audio & visual feedback based on their choices.",
-    mediums: "HTML, CSS, jQuery, Adobe Photoshop & Audition",
+    mediums: "jQuery, HTML, CSS, JavaScript, Adobe Creative Suite",
     link: "https://camcorrado.github.io/Dead-By-Daylight-Quiz/",
     repoClient: "https://github.com/camcorrado/Dead-By-Daylight-Quiz-App-Final",
+    repoServer: null,
   },
 ];
 

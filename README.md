@@ -10,6 +10,7 @@
 - HTML
 - CSS
 - JavaScript
+- Adobe Creative Suite
 
 ## Live URL
 

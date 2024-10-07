@@ -16,6 +16,11 @@ const reels = [
   },
   {
     id: 3,
+    video: "https://player.vimeo.com/video/1017132620",
+    alt: "Early Freelance Reel",
+  },
+  {
+    id: 4,
     video: "https://player.vimeo.com/video/1015853659",
     alt: "SUNY Purchase Reel",
   },

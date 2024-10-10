@@ -302,8 +302,11 @@ h1 {
 }
 
 .photoGallery {
-  max-width: 1000px;
   margin: auto auto 10px auto;
+}
+
+.photoContainerList {
+  width: 100%;
 }
 
 .photo {
@@ -348,10 +351,6 @@ h1 {
   .video, .code, .about {
     margin: auto 10px;
   }
-  
-
-
-
 
   .hero {
     display: block;

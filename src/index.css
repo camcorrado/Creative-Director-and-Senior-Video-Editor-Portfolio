@@ -326,17 +326,13 @@ h1 {
   object-fit: cover;
 }
 
-@media (min-width: 1750px) {
-  .video, .code, .about {
-    margin: auto 10px;
-  }
-
+@media (min-width: 1000px) {
   .reel, .project {
     flex: 0 0 33.33%;
     min-width: 450px;
     padding: 0px 10px;
   }
-  
+
   .analog {
     flex-direction: row-reverse;
     height: 100%;
@@ -346,6 +342,16 @@ h1 {
   .analogDesc {
     margin: auto 20px;
   }  
+}
+
+@media (min-width: 1750px) {
+  .video, .code, .about {
+    margin: auto 10px;
+  }
+  
+
+
+
 
   .hero {
     display: block;

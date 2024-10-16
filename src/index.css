@@ -272,7 +272,7 @@ h1 {
   justify-content: center;
   align-items: center;
   list-style: none;
-  max-width: 1000px;
+  max-width: 450px;
   margin: 20px auto 10px auto;
 }
 
@@ -288,17 +288,6 @@ h1 {
 
 .faIcon {
   font-size: 42px;
-  padding-bottom: 5px;
-}
-
-.socialLink p {
-  opacity: 0;
-  margin: auto;
-}
-
-.socialLink:hover p {
-  opacity: 1;
-  transition: 0.5s;
 }
 
 .photoGallery {

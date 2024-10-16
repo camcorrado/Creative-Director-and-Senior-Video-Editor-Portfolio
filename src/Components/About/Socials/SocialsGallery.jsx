@@ -17,7 +17,6 @@ export default class SocialsGallery extends Component {
                 aria-label={social.ariaLabel}
               >
                 <FontAwesomeIcon icon={social.icon} className="faIcon" />
-                <p>{social.name}</p>
               </a>
             </li>
           ))}

@@ -1,4 +1,5 @@
 const CodeSkills = [
+  "Adaptability",
   "Authorization",
   "AWS",
   "Back-End Web Development",

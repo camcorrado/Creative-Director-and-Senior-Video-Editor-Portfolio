@@ -29,6 +29,7 @@ const VideoSkills = [
   "Handbrake",
   "iMovie",
   "Keying",
+  "Media Asset Management",
   "Motion Design",
   "Motion Tracking",
   "Multitasking",

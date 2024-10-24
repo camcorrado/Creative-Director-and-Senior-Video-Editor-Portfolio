@@ -6,6 +6,7 @@ const CodeSkills = [
   "CSS",
   "Data Entry",
   "Detail Oriented",
+  "Drupal",
   "Encryption",
   "Excel",
   "File Management",

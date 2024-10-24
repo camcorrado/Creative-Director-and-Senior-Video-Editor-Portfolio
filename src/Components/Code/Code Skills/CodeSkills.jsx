@@ -10,7 +10,6 @@ const CodeSkills = [
   "Docker",
   "Drupal",
   "Encryption",
-  "Excel",
   "Express",
   "File Management",
   "Front-End Web Development",

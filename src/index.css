@@ -44,6 +44,10 @@ html, body {
   width: 100%;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
   color: #FFFFFF;
   background-color: #0F0F12;

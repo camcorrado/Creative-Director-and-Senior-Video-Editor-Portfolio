@@ -6,6 +6,9 @@ export default class Nav extends Component {
     return (
       <nav>
         <section className="menu">
+          <Link to="/" aria-label="Home">
+            Home
+          </Link>
           <Link to="/Video" aria-label="Video">
             Video
           </Link>

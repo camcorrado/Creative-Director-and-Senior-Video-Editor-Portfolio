@@ -8,7 +8,7 @@ export default class PhotoGallery extends Component {
       <section className="photoGallery">
         <ul className="photoContainerList">
           {Photos.map((photo) => (
-            <li key={photo.name} className="photo">
+            <li key={photo.photo} className="photo">
               <PhotoCard photo={photo} key={photo.id} />
             </li>
           ))}

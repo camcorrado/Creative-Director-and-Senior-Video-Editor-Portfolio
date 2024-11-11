@@ -10,8 +10,7 @@ export default class ReelCard extends Component {
           alt={alt}
           className="reelPlayer"
           loading="lazy"
-          frameborder="0"
-          allow="fullscreen;"
+          allowFullScreen
         />
       </section>
     );

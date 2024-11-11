@@ -8,6 +8,7 @@ import GARDENR from "./Pics/Gardenr.jpg";
 
 const projects = [
   {
+    id: 0,
     name: "Creative Director & Senior Video Editor Portfolio",
     image: PORTFOLIO,
     alt: "Portfolio Screenshot",
@@ -19,6 +20,7 @@ const projects = [
     repoServer: null,
   },
   {
+    id: 1,
     name: "Memory Game",
     image: MEMORY,
     alt: "Memory Game Screenshot",
@@ -29,6 +31,7 @@ const projects = [
     repoServer: null,
   },
   {
+    id: 2,
     name: "UI Challenges",
     image: UICHALLENGES,
     alt: "UI Challenges Screenshot",
@@ -39,6 +42,7 @@ const projects = [
     repoServer: null,
   },
   {
+    id: 3,
     name: "Together",
     image: TOGETHER,
     alt: "Together Screenshot",
@@ -49,6 +53,7 @@ const projects = [
     repoServer: "https://github.com/camcorrado/Together-API",
   },
   {
+    id: 4,
     name: "Suggest",
     image: SUGGEST,
     alt: "Suggest Screenshot",
@@ -59,6 +64,7 @@ const projects = [
     repoServer: "https://github.com/camcorrado/Suggest-Server",
   },
   {
+    id: 5,
     name: "Gardener",
     image: GARDENR,
     alt: "Gardener Screenshot",
@@ -70,6 +76,7 @@ const projects = [
     repoServer: null,
   },
   {
+    id: 6,
     name: "Dead By Daylight Quiz",
     image: DBD,
     alt: "Dead By Daylight Quiz Screenshot",

@@ -8,7 +8,7 @@ export default class SocialsGallery extends Component {
       <section className="socialsGallery">
         <ul className="socialsContainerList">
           {Socials.map((social) => (
-            <li key={social.name} className="social">
+            <li key={social.id} className="social">
               <a
                 className="socialLink"
                 href={social.link}

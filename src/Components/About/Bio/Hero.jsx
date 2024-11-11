@@ -17,48 +17,39 @@ export default class Hero extends Component {
         </section>
         <section className="bio">
           <p>
-            With over a decade of experience as a{" "}
+            With over a decade of professional experience as a{" "}
             <span>Creative Director & Senior Video Editor</span>, I specialize
             in crafting visually captivating stories and bringing charm to every
-            frame. My journey spans both corporate and independent projects,
-            with a focus on post-production, children's educational content,
-            music videos, and digital assets.
+            frame. My expertise spans all stages of production, with a strong
+            focus on post-production and video editing, utilizing tools like{" "}
+            <span>Adobe After Effects</span> and <span>Premiere Pro</span>.
           </p>
           <p>
-            From directing and editing full-scale music video productions with{" "}
-            <span>Music with Miss Merry</span> to overseeing content creation
-            for <span>TIM Global</span>, I've honed my ability to streamline
-            workflows, manage vast media libraries, and ensure brand consistency
-            across various channels. As an organizational wiz, I excel in
-            structuring complex projects and storage systems, ensuring every
-            piece of content is meticulously crafted and efficiently managed.
+            From directing and editing children’s music videos with{" "}
+            <span>Music with Miss Merry</span> to supporting LGBTQ+ creators in
+            launching their careers with <span>TIM Global</span>, I’ve been
+            fortunate to create impactful content across diverse platforms. I've
+            honed my ability to streamline workflows, manage extensive media
+            libraries, and ensure brand consistency across channels - all while
+            structuring complex projects with an eye for detail.
           </p>
           <p>
-            My academic background in{" "}
-            <span>Film & Media Studies from SUNY Purchase</span> laid the
-            foundation for my creative approach, cultivating a keen eye for both
-            the whimsical and the well-crafted. I've also expanded my technical
-            repertoire with a focus on <span>Full-Stack Web Development</span>,
-            building the very website you're visiting today.
-          </p>
-          <p>
-            I'm also a self-proclaimed analog fanatic with a growing collection
-            of VHS tapes! I'm passionate about the art of media preservation,
-            digitizing, archiving, and sharing endangered media to keep it alive
-            in the digital age. This love for analog content reflects my belief
-            that every medium - whether vintage or modern - holds unique
-            stories, and I'm committed to bringing those stories to life and
-            keeping them alive.
+            A foundation in <span>Film & Media Studies</span> from{" "}
+            <span>SUNY Purchase</span> shaped my creative approach, cultivating
+            a keen eye for both the whimsical and the well-crafted. This
+            background, coupled with technical training in{" "}
+            <span>Full-Stack Web Development</span>, provided the skills to
+            build the very website you’re visiting today.
           </p>
           <p>
             Outside of work, you'll find me in my garden-side hammock with my
-            cat, playing board and video games with friends, meticulously
-            scanning through yard sales and flea markets for collectables, or
-            enjoying questionably-rated horror movies.
+            cat, playing board and video games with friends, hunting for
+            collectibles at yard sales, or enjoying questionably good horror
+            movies.
           </p>
           <p>
-            Thank you for visiting! I hope my content resonates with you, and
-            I'm excited about the possibility of working together.
+            Thank you for visiting! I hope my work resonates with you, and I
+            look forward to the possibility of collaborating.
           </p>
         </section>
       </section>

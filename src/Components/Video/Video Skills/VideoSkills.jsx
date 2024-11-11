@@ -4,7 +4,7 @@ const VideoSkills = [
   "Adobe Illustrator",
   "Adobe Media Encoder",
   "Adobe Photoshop",
-  "Adobe Premiere",
+  "Adobe Premiere Pro",
   "Archiving",
   "Asana",
   "Avid Media Composer",

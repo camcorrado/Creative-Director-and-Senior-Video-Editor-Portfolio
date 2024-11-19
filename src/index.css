@@ -21,18 +21,46 @@
   font-style: normal;
 }
 
-.afacad-flux-regular {
-  font-family: "Afacad Flux", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "slnt" 0;
 }
+
+.crimson-text-semibold {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.crimson-text-semibold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.crimson-text-bold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
 
 * {
   box-sizing: border-box;
-  font-family: "Afacad Flux", serif;
+  font-family: "Crimson Text", serif;
   margin: 0;
   padding: 0;
   font-size: 18px;

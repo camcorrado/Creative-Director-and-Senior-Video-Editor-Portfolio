@@ -1,8 +1,8 @@
-# Creative Director & Senior Video Editor Portfolio
+# Digital Media & Technology Professional Portfolio
 
 ## Screenshots
 
-![Landing Page](https://i.imgur.com/RT7DFtx.jpeg)
+![Landing Page](https://i.imgur.com/ZSZ5IoM.png)
 
 ## Built With
 

@@ -13,7 +13,7 @@ export default class Landing extends Component {
           <img
             src={nameAndTitle}
             className="nameImage"
-            alt="Cameron Corrado - Creative Director & Senior Video Editor"
+            alt="Cameron Corrado - Digital Media & Technology Professional"
           />
         </section>
         <video

@@ -1,4 +1,4 @@
-import PORTFOLIO from "./Pics/PortfolioLanding.jpg";
+import PORTFOLIO from "./Pics/PortfolioLanding.png";
 import MEMORY from "./Pics/MemoryGame.png";
 import UICHALLENGES from "./Pics/UIChallenges.png";
 import DBD from "./Pics/DBDQuiz.png";
@@ -9,7 +9,7 @@ import GARDENR from "./Pics/Gardenr.jpg";
 const projects = [
   {
     id: 0,
-    name: "Creative Director & Senior Video Editor Portfolio",
+    name: "Digital Media & Technology Professional Portfolio",
     image: PORTFOLIO,
     alt: "Portfolio Screenshot",
     description: `Pretty meta, right? I hope you're enjoying your experience here on my responsive portfolio!`,

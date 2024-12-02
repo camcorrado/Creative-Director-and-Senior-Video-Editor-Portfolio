@@ -15,8 +15,7 @@ const projects = [
     description: `Pretty meta, right? I hope you're enjoying your experience here on my responsive portfolio!`,
     mediums: "React + Vite, HTML, CSS, JavaScript, Adobe Creative Suite",
     link: "https://camcorrado.com/",
-    repoClient:
-      "https://github.com/camcorrado/Creative-Director-and-Senior-Video-Editor-Portfolio",
+    repoClient: "https://github.com/camcorrado/portfolio",
     repoServer: null,
   },
   {

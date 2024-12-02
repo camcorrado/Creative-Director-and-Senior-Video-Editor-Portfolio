@@ -9,7 +9,7 @@ import GARDENR from "./Pics/Gardenr.jpg";
 const projects = [
   {
     id: 0,
-    name: "Digital Media & Technology Professional Portfolio",
+    name: "Professional Portfolio",
     image: PORTFOLIO,
     alt: "Portfolio Screenshot",
     description: `Pretty meta, right? I hope you're enjoying your experience here on my responsive portfolio!`,

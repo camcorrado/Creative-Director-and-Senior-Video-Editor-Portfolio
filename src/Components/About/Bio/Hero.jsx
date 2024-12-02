@@ -17,39 +17,47 @@ export default class Hero extends Component {
         </section>
         <section className="bio">
           <p>
-            With over a decade of professional experience as a{" "}
-            <span>Creative Director & Senior Video Editor</span>, I specialize
-            in crafting visually captivating stories and bringing charm to every
-            frame. My expertise spans all stages of production, with a strong
-            focus on post-production and video editing, utilizing tools like{" "}
-            <span>Adobe After Effects</span> and <span>Premiere Pro</span>.
+            As a technically-minded professional with over a decade of
+            experience, my career has always revolved around solving problems,
+            improving workflows, organizational prowess, and making complex
+            systems run as efficiently as possible.
           </p>
           <p>
-            From directing and editing children’s music videos with{" "}
-            <span>Music with Miss Merry</span> to supporting LGBTQ+ creators in
-            launching their careers with <span>TIM Global</span>, I’ve been
-            fortunate to create impactful content across diverse platforms. I've
-            honed my ability to streamline workflows, manage extensive media
-            libraries, and ensure brand consistency across channels - all while
-            structuring complex projects with an eye for detail.
+            A Bachelor of Arts in Film & Media Studies from SUNY Purchase laid
+            the groundwork for my career, giving me a deep understanding of the
+            technical side of media production: from managing complex video
+            workflows to mastering tools like Adobe Premiere Pro and After
+            Effects. My work has ranged from the end-to-end production of
+            educational children’s music videos with Music with Miss Merry to
+            supporting LGBTQ+ creators with TIM Global, always focusing on the
+            effective use of technology to deliver polished, impactful content.
           </p>
           <p>
-            A foundation in <span>Film & Media Studies</span> from{" "}
-            <span>SUNY Purchase</span> shaped my creative approach, cultivating
-            a keen eye for both the whimsical and the well-crafted. This
-            background, coupled with technical training in{" "}
-            <span>Full-Stack Web Development</span>, provided the skills to
-            build the very website you’re visiting today.
+            My technical expertise extends beyond media production into
+            Full-Stack Web Development, where I’ve gained proficiency in HTML,
+            CSS, JavaScript, React, and SQL. I’ve built numerous user-friendly,
+            interactive websites that translate complex ideas into functional
+            and visually engaging designs - including this very site you’re
+            visiting right now!
           </p>
           <p>
-            Outside of work, you'll find me in my garden-side hammock with my
-            cat, playing board and video games with friends, hunting for
-            collectibles at yard sales, or enjoying questionably good horror
-            movies.
+            The common thread in all my work has been a deep understanding of
+            technology and how to leverage it effectively. With a solid
+            foundation in technical skills and a passion for continuous
+            learning, I’m currently working toward certifications in IT support
+            through Google’s IT Support Professional Certificate, along with A+
+            (Hardware/Software), Network+, and Security+ certifications via
+            CompTIA.
           </p>
           <p>
-            Thank you for visiting! I hope my work resonates with you, and I
-            look forward to the possibility of collaborating.
+            In my free time, you’ll find me playing board and video games with
+            friends, relaxing in my hammock with my cat, attracting wildlife to
+            my garden, hunting for forgotten treasures at yard sales, digitizing
+            endangered media, or enjoying some questionably good horror movies.
+          </p>
+          <p>
+            Thanks for stopping by! I look forward to connecting and seeing how
+            I can bring my skills to your team.
           </p>
         </section>
       </section>
